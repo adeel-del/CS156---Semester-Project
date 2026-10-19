@@ -15,7 +15,6 @@ The pipeline trains pKa models on computed pKa values (pKPDB), tests them on mea
 | `D pealeii ORFs (1).fa`, `Editing Sites (1).xlsx` | Rosenthal Lab (MBL) | Yes, in `DP FILES - PIPELINE - With other files.zip` |
 | `edited_residues_DP.csv` | output of Step 1 | Yes, in the 'DP FILES - PIPELINE - With other files.zip' |
 
-The RCSB 30% sequence clusters and the PDB structures are downloaded automatically.
 
 ## How to run
 1. `pip install -r requirements.txt`
