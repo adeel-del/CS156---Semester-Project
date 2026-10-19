@@ -2,7 +2,7 @@
 
 # How does ADAR1 recoding change residue ionization in squid HOPS/CORVET proteins?
 
-CS156 Pipeline Assignment 1. The pipeline trains pKa models on computed pKa values (pKPDB), tests them on measured pKa values (PKAD-2), and applies them to 263 ADAR1-edited residues in 8 *D. pealeii* HOPS/CORVET proteins.
+The pipeline trains pKa models on computed pKa values (pKPDB), tests them on measured pKa values (PKAD-2), and applies them to 263 ADAR1-edited residues in 8 *D. pealeii* HOPS/CORVET proteins.
 
 **Main notebook:** `Machine Learning Pipeline 1 - Capstone Part.ipynb`.
 
