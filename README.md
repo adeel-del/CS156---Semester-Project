@@ -9,9 +9,9 @@ The pipeline trains pKa models on computed pKa values (pKPDB), tests them on mea
 ## Data
 | File (exact name expected) | Source | In this repository? |
 |---|---|---|
-| `pkas.csv` | pKPDB pKa values, https://pypka.org/pKPDB/ | No, download it |
-| `similarity090.csv` | pKPDB similarity clusters, same page | No, download it |
-| `PKAD2_wild_2026-10-17T20_4411.527Z.csv` | PKAD-2, https://compbio.clemson.edu/pkad-2/ (rename your download to this) | No, download it |
+| `pkas.csv` | pKPDB pKa values, https://pypka.org/pKPDB/ | No, it needs to be downloaded |
+| `similarity090.csv` | pKPDB similarity clusters, same page | No, it needs to be downloaded |
+| `PKAD2_wild_2026-10-17T20_4411.527Z.csv` | PKAD-2, https://compbio.clemson.edu/pkad-2/ (rename your download to this) | No, it needs to be downloaded |
 | `D pealeii ORFs (1).fa`, `Editing Sites (1).xlsx` | Rosenthal Lab (MBL) | Yes, in `DP FILES - PIPELINE - With other files.zip` |
 | `edited_residues_DP.csv` | output of Step 1 | Yes, in the 'DP FILES - PIPELINE - With other files.zip' |
 
